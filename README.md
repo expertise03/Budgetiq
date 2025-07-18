@@ -157,7 +157,9 @@ HARISH.R-API INTEGRATION AND NLP
 5. Open your browser and navigate to `http://localhost:3000`
 
 ## 📊 Project Screenshots
-
+<img width="1919" height="816" alt="Screenshot 2025-07-18 092013" src="https://github.com/user-attachments/assets/e7245a17-e967-4cdc-bbff-0c7c8c57284f" />
+<img width="1888" height="825" alt="Screenshot 2025-07-18 090501" src="https://github.com/user-attachments/assets/d70c1e4d-1a3a-4c3f-b182-ac1947df563f" />
+<img width="1878" height="816" alt="Screenshot 2025-07-18 091207" src="https://github.com/user-attachments/assets/d5fbd058-9fbc-4b8f-a362-5bff18a4c488" />
 
 ## Hashtags
 #FinancialIntelligence #AI #BudgetManagement #MachineLearning #PersonalFinance 
