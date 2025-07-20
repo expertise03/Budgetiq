@@ -1,20 +1,20 @@
-# Budgetiq
+# Splitease
 A Student centric budget managing system to enable women financial independent and thrive with financial literacy. AI-powered predictive analyzer for empowering women financially independent.
 🧠 Budgetiq — Financial Freedom Begins Here
 💬 "Financial literacy isn’t a luxury — it’s a necessity."
 
-Budgetiq isn't just another budget tracker. It's a mission-driven app built to empower the financially underserved - Struggling students to manage their splits and expenses as a "Freelancer- foreign projects", "Hostel Students", "Interns -who need to work onsite"  — to take charge of their finances with confidence.
+Splitease isn't just another budget tracker. It's a mission-driven app built to empower the financially underserved - Struggling students to manage their splits and expenses as a "Freelancer- foreign projects", "Hostel Students", "Interns -who need to work onsite"  — to take charge of their finances with confidence.
 
-Despite their pivotal roles in households and society, many women and girl students are still underrepresented in the world of investments, budgeting, and personal finance. Budgetiq is built with empathy and purpose to bridge that gap — offering a smart, simple, and dignified way to manage everyday money.
+Despite their pivotal roles in households and society, many women and girl students are still underrepresented in the world of investments, budgeting, and personal finance. Splitease is built with empathy and purpose to bridge that gap — offering a smart, simple, and dignified way to manage everyday money.
 
-## Why Budgetiq?
+## Why Splitease?
 Many individuals — particularly students/girls in non-salaried roles — are often overlooked when it comes to financial tools. With Budgetiq, we aim to:
 
-📚 Promote financial literacy among women and the elderly
+📚 Promote financial literacy among student and the women
 💪 Encourage independent decision-making in spending and saving
 🌱 Build confidence in budgeting, planning, and eventually investing
 🏠 Support homemakers, who manage entire households but are rarely counted as “earners”
-💔 Help divorcees and widowers rebuild control over their financial lives
+💔 Help Freelancers, Hostlers and Interns to rebuild control over their financial lives
 
 # 🛠️ Built With:-
 
@@ -23,14 +23,14 @@ Many individuals — particularly students/girls in non-salaried roles — are o
 ⚡ Vite (ultra-fast development)
 ✅ ESLint + tsconfig for clean, scalable code
 
-# BudgetIQ - Smart AI-Powered Financial Management For Students
+# Splitease- Smart AI-Powered Financial Management For Students
 
 ## Project Description
-BudgetIQ is an intelligent financial management platform built to tackle the complexity of personal finance through artificial intelligence. In today's fast-paced world, managing expenses, tracking spending patterns, and making informed financial decisions has become increasingly challenging. BudgetIQ addresses these pain points by leveraging AI to transform complex financial data into actionable insights, providing users with a comprehensive yet intuitive financial management experience.
+Splitease is an intelligent financial management platform built to tackle the complexity of personal finance through artificial intelligence. In today's fast-paced world, managing expenses, tracking spending patterns, and making informed financial decisions has become increasingly challenging. Splitease addresses these pain points by leveraging AI to transform complex financial data into actionable insights, providing users with a comprehensive yet intuitive financial management experience.
 
 Our platform analyzes transaction patterns, predicts future expenses, and offers personalized recommendations tailored to each user's financial habits. With features ranging from automated receipt scanning to multi-currency support, BudgetIQ empowers users to take control of their financial health regardless of their financial literacy level.
 
-## Why BudgetIQ?
+## Why Splitease?
 - **Financial Visibility Gap**: Most people lack clear insight into their spending patterns and financial health
 - **Manual Tracking Burden**: Traditional expense tracking is time-consuming and error-prone
 - **Financial Literacy Barrier**: Complex financial planning requires expertise most users don't possess
@@ -82,7 +82,7 @@ Our platform analyzes transaction patterns, predicts future expenses, and offers
 - **Computer Vision**: OpenCV, Tesseract OCR for receipt processing
 - **Predictive Models**: Custom algorithms for expense forecasting
 
-### Cloud Infrastructure
+### Cloud Infrastructure(Future Directions)
 - **Services**: AWS Lambda, Amazon S3
 - **CI/CD**: GitHub Actions
 - **Deployment**: Vercel
@@ -112,7 +112,7 @@ Our platform analyzes transaction patterns, predicts future expenses, and offers
 ## Team Members
 
 HARINI.P- FULLSTACK DEVELOPEMENT AND API INYEGRATION
-KEERTHANA.R - CHATBOT/NLP AND PREDICTIVE ANALYSIS
+KEERTHANA.R - CHATBOT, NLP AND PREDICTIVE ANALYSIS
 
 ## 📋 Installation and Setup
 
@@ -163,5 +163,7 @@ KEERTHANA.R - CHATBOT/NLP AND PREDICTIVE ANALYSIS
 
 ## Hashtags
 #FinancialIntelligence #AI #BudgetManagement #MachineLearning #PersonalFinance 
-#FinTech #DataVisualization #HelloWordHacks
+#FinTech #DataVisualization #HelloWordHacks #PersonalizedforStudents
+
+## BUILT AT STARTUP HACKATHON
 
