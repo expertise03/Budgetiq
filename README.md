@@ -159,6 +159,9 @@ KEERTHANA.R - CHATBOT, NLP AND PREDICTIVE ANALYSIS
 <img width="1919" height="816" alt="Screenshot 2025-07-18 092013" src="https://github.com/user-attachments/assets/e7245a17-e967-4cdc-bbff-0c7c8c57284f" />
 <img width="1888" height="825" alt="Screenshot 2025-07-18 090501" src="https://github.com/user-attachments/assets/d70c1e4d-1a3a-4c3f-b182-ac1947df563f" />
 <img width="1878" height="816" alt="Screenshot 2025-07-18 091207" src="https://github.com/user-attachments/assets/d5fbd058-9fbc-4b8f-a362-5bff18a4c488" />
+<img width="1918" height="825" alt="Screenshot 2025-07-18 091246" src="https://github.com/user-attachments/assets/42507a06-7dc9-4f00-8c75-0c923170e233" />
+<img width="1882" height="828" alt="Screenshot 2025-07-18 091150" src="https://github.com/user-attachments/assets/ac03017d-a65f-4f33-b582-fa05804caea3" />
+
 
 
 ## Hashtags
