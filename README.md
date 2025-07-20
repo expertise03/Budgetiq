@@ -161,6 +161,9 @@ KEERTHANA.R - CHATBOT, NLP AND PREDICTIVE ANALYSIS
 <img width="1878" height="816" alt="Screenshot 2025-07-18 091207" src="https://github.com/user-attachments/assets/d5fbd058-9fbc-4b8f-a362-5bff18a4c488" />
 <img width="1918" height="825" alt="Screenshot 2025-07-18 091246" src="https://github.com/user-attachments/assets/42507a06-7dc9-4f00-8c75-0c923170e233" />
 <img width="1882" height="828" alt="Screenshot 2025-07-18 091150" src="https://github.com/user-attachments/assets/ac03017d-a65f-4f33-b582-fa05804caea3" />
+<img width="1897" height="828" alt="Screenshot 2025-07-18 091357" src="https://github.com/user-attachments/assets/810de853-b4d8-41f3-b298-d50cad7e92ff" />
+<img width="1919" height="837" alt="Screenshot 2025-07-18 091326" src="https://github.com/user-attachments/assets/7e82458d-f6de-4a26-817c-160cba638c14" />
+
 
 
 
