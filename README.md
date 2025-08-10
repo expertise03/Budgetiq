@@ -172,5 +172,5 @@ KEERTHANA.R - CHATBOT, NLP AND PREDICTIVE ANALYSIS
 #FinancialIntelligence #AI #BudgetManagement #MachineLearning #PersonalFinance 
 #FinTech #DataVisualization #HelloWordHacks #PersonalizedforStudents
 
-## BUILT AT STARTUP HACKATHON
+
 
