@@ -111,8 +111,9 @@ Our platform analyzes transaction patterns, predicts future expenses, and offers
 
 ## Team Members
 
-HARINI.P- FULLSTACK DEVELOPEMENT AND API INYEGRATION
-KEERTHANA.R - CHATBOT, NLP AND PREDICTIVE ANALYSIS
+HARINI.P - FULLSTACK DEVELOPEMENT AND API INYEGRATION
+HAFZAFARZANA H - AI AND LLM DEVELOPMENT
+INDHUJA S - UI-UX
 
 ## 📋 Installation and Setup
 
